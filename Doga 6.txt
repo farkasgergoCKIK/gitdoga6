@@ -1,2 +1,3 @@
 Első commit (A1, master)
 Masodik commit (B2, master)
+Negyedik commit (B4,master)
