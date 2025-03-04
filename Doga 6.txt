@@ -1,3 +1,4 @@
 Első commit (A1, master)
 Masodik commit (B2, master)
 Harmadik commit (A3, fejlesztes)
+Ötödik commit (b5 fejlesztes)
